@@ -1,7 +1,11 @@
 #include <iostream>
 
+
 int main(){
 
-   printf("oanfdmfjkwjpefd\n\n");
+   int i;
+   printf("ojdaoeij\n\n");
+   std::cin >> i;
+   std::cout << i << "\n" << std::endl
 
 }
